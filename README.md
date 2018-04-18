@@ -1,6 +1,7 @@
 # CircleCI Demo React Native App
 
 [![CircleCI](https://circleci.com/gh/jcleigh-hst/circleci-demo-react-native.svg?style=svg)](https://circleci.com/gh/jcleigh-hst/circleci-demo-react-native)
+[![Build Status](https://www.bitrise.io/app/65428cd26174c5f5/status.svg?token=msrdT74vE-GTdAabp-RgYA&branch=master)](https://www.bitrise.io/app/65428cd26174c5f5)
 
 ## Building and running locally
 
